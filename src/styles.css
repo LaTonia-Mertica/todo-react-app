@@ -1,0 +1,36 @@
+body {
+  background-color: #36454f;
+  margin-top: 10rem;
+}
+.box {
+  display: flex;
+  margin-bottom: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+input {
+  width: 16.5rem;
+  margin-top: 1rem;
+  cursor: pointer;
+  border-radius: 0.05rem;
+}
+input::placeholder {
+  font-size: x-small;
+}
+button {
+  display: block;
+  cursor: pointer;
+  width: 17rem;
+  padding: 1rem;
+  border: none;
+
+  background-color: darkgreen;
+}
+label,
+.text {
+  color: whitesmoke;
+
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: xx-large;
+  letter-spacing: 0.05rem;
+}
