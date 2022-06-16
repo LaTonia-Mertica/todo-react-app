@@ -1,12 +1,38 @@
-# TODO REACT APP
+# **TODO REACT APP**
 
-_basic todo react app_
+###### [project courtesy youtube channel 'web dev simplified' - note, per initial publish date, project required debugging re: uuid, add todo event handler, and stored todos localStorage ... which may best be understood by building as outlined then debugging](https://youtu.be/hQAHSlTtcmY)
 
-###### [project courtesy youtube - per initial date required debugging re: uuid, add todo event handler, and localStorage for stored todos](https://youtu.be/hQAHSlTtcmY)
+<br>
+
+###### PROJECT BUILD ESTIMATED COMPLETION TIME: 15-20<sup>+</sup> MINS
+
+<br>
+
+`console.log('Reasons to Revisit Projects')`
+
+| aka REDO PREVIOUSLY COMPLETED PROJECTS                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| _tap_ stuff we know, we don't know we know                                                                                                                    |
+| _activate_ stuff we know, we for a time don't remember we know                                                                                                |
+| _engage_ stuff we know, we don't implement - or implement consistently                                                                                        |
+| _refine_ stuff we know, and use, though not well                                                                                                              |
+| _acknowledge_ stuff we know, though only now know we thought we knowed per onset of clarity re: previous perception and current reality of the code situation |
+| _reset boundaries re:_ stuff we know, shouldn't - or at least shouldn't tell others about                                                                     |
+
+| _part ways w/_ stuff we know we need to unknow
+
+<br>
+
+###### ![reserve your copy of 'when knowing is real'](images/WHEN KNOWING IS REAL.png)
+
+###### **_note:_** the above title is a fictional book, and so one - meaning you/me - can only do one's best to get to and maintain ideal conditions for knowing
+
+<br>
+<br>
 
 ---
 
-# GET STARTED: Create React App
+## **GET STARTED:** Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
