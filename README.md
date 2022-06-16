@@ -22,7 +22,7 @@
 
 <br>
 
-###### ![reserve your copy of 'when knowing is real'](images/WHEN KNOWING IS REAL.png)
+![WHEN KNOWING IS REAL](https://user-images.githubusercontent.com/76631992/174195221-f21ad5b3-3b8b-4518-8987-1e1531a0414a.png)
 
 ###### **_note:_** the above title is a fictional book, and so one - meaning you/me - can only do one's best to get to and maintain ideal conditions for knowing
 
