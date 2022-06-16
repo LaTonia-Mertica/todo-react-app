@@ -18,7 +18,6 @@
 | _refine_ stuff we know, and use, though not well                                                                                                              |
 | _acknowledge_ stuff we know, though only now know we thought we knowed per onset of clarity re: previous perception and current reality of the code situation |
 | _reset boundaries re:_ stuff we know, shouldn't - or at least shouldn't tell others about                                                                     |
-
 | _part ways w/_ stuff we know we need to unknow
 
 <br>
