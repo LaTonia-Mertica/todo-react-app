@@ -2,6 +2,8 @@
 
 _basic todo react app_
 
+###### [project courtesy youtube - per initial date required debugging re: uuid, add todo event handler, and localStorage for stored todos](https://youtu.be/hQAHSlTtcmY)
+
 ---
 
 # GET STARTED: Create React App
