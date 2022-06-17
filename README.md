@@ -18,15 +18,15 @@
 
 `console.log('Reasons to Revisit Projects')`
 
-| aka REDO PREVIOUSLY COMPLETED PROJECTS                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _tap_ stuff we know, we don't know we know                                                                                                                    |
-| _activate_ stuff we know, we for a time don't remember we know                                                                                                |
-| _engage_ stuff we know, we don't implement - or implement consistently                                                                                        |
-| _refine_ stuff we know, and use, though not well                                                                                                              |
-| _acknowledge_ stuff we know, though only now know we thought we knowed per onset of clarity re: previous perception and current reality of the code situation |
-| _reset boundaries re:_ stuff we know, shouldn't - or at least shouldn't tell others about                                                                     |
-| _part ways w/_ stuff we know we need to unknow                                                                                                                |
+| aka REDO PREVIOUSLY COMPLETED PROJECTS                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ~ _tap_ stuff we know, we don't know we know 🧐                                                                                                                      |
+| ~ _activate_ stuff we know, we for a time don't remember we know                                                                                                     |
+| ~ _engage_ stuff we know, we don't implement - or implement consistently 🤨                                                                                          |
+| ~ _refine_ stuff we know, and use, though not well                                                                                                                   |
+| ~ _acknowledge_ stuff we know, though only now know we thought🙄 we knowed per onset of clarity re: previous perception and current reality of the code situation 🤠 |
+| ~ _reset boundaries re:_ stuff we know, shouldn't - or at least shouldn't tell others about                                                                          |
+| ~ _part ways w/_ stuff we know we need to unknow 🤔                                                                                                                  |
 
 <br>
 
