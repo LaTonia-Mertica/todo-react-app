@@ -1,5 +1,7 @@
 # **TODO REACT APP (BASIC)**
 
+[visit todo react app live demo](https://www.latoniamertica.dev/todo-react-app/)
+
 ###### [project courtesy youtube channel 'web dev simplified' - note, per initial publish date, project required debugging re: uuid, add todo event handler, and stored todos localStorage ... which may best be understood by building as outlined then debugging](https://youtu.be/hQAHSlTtcmY)
 
 <br>
