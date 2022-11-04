@@ -1,4 +1,4 @@
-# **TODO REACT APP (BASIC)**
+# **TODO REACT APP (BASIC MODEL)**
 
 [visit todo react app (basic) live demo](https://www.latoniamertica.dev/todo-react-app/)
 
